@@ -1,0 +1,44 @@
+.logo {
+  margin-top: 50px;
+  width: 70px;
+}
+
+.title {
+  margin-top: 32px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.main {
+  margin-top: 100px;
+  width: 50%;
+}
+
+.right {
+  margin-left: 40px;
+}
+
+.card {
+  margin-top: 32px;
+}
+
+.card li {
+  height: 60px;
+}
+
+.title h3 {
+  margin-top: -31px;
+}
+
+.centered {
+  margin-top: 40px;
+  margin-left: 450px;
+}
+
+.centered {
+  margin-top: 40px;
+  margin-left: 450px;
+}
+/*# sourceMappingURL=style.css.map */
